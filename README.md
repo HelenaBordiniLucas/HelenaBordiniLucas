@@ -3,7 +3,7 @@
 **Data Scientist & AI Developer | PhD Candidate in Physics & Computational Neuroscience | Machine Learning, RAG & LLMs**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,sklearn,postgres,azure,git,github&perline=7" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,sklearn,cpp,fortran,postgres,azure,latex,git,github&perline=10" alt="Tech icons" />
 </p>
 
 ---
@@ -31,10 +31,6 @@ ___
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-
 
 ---
 
