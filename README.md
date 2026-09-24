@@ -10,7 +10,7 @@ ___
 
 ### Tech stack
 
-**Languages & data**<br>
+Languages & data<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -18,12 +18,12 @@ ___
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-**Machine learning**<br>
+Machine learning<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat&logoColor=black)
 ![SHAP](https://img.shields.io/badge/SHAP-FF0D57?style=flat&logoColor=white)
 
-**Generative AI & LLMs**<br>
+Generative AI & LLMs<br>
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
@@ -31,7 +31,7 @@ ___
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat&logoColor=white)
 ![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-3C8DBC?style=flat&logoColor=white)
 
-**Apps & tools**<br>
+Apps & tools<br>
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
