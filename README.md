@@ -1,11 +1,11 @@
+# Hi, I'm Helena
+
 **Data Scientist & AI Developer | PhD Candidate in Physics & Computational Neuroscience | Machine Learning, RAG & LLMs**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,matlab,sklearn,postgres,azure,git,github&perline=7" alt="Tech icons" />
 </p>
 
-
-### Brisbane, Australia 
 ---
 
 ### Tech stack
@@ -40,4 +40,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helena-bordini-de-lucas-78629b239/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=vBM89_YAAAAJ)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:helena.bordini@fis.ufal.br)
