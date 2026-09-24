@@ -1,3 +1,4 @@
+---
 # Hi, I'm Helena
 
 **Data Scientist & AI Developer | PhD Candidate in Physics & Computational Neuroscience | Machine Learning, RAG & LLMs**
@@ -7,6 +8,14 @@
 </p>
 
 ---
+
+### Languages
+
+<p align="left">
+  <img src="./core-technologies.svg" alt="Core technologies: Jupyter, Python, MATLAB, C++, SQL, Fortran" height="175" />
+</p>
+
+___
 
 ### Tech stack
 
@@ -26,12 +35,7 @@
 
 ---
 
-### Languages
 
-<p align="left">
-  <img src="./core-technologies.svg" alt="Core technologies: Jupyter, Python, MATLAB, C++, SQL, Fortran" height="175" />
-  <img src="./languages.svg" alt="Languages used across my projects" height="175" />
-</p>
 
 ---
 
