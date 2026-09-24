@@ -11,29 +11,21 @@
   </a>
 </p>
 
-# Hi, I'm Helena 👋
 
 **Data Scientist & AI Developer | PhD Candidate in Physics & Computational Neuroscience | Machine Learning, RAG & LLMs**
 
-📍 Brisbane, Australia · Full-time work rights
-
-I build models that people can actually trust. Research taught me to take validation seriously; industry taught me to build things people use. I enjoy working where both meet.
-
-- 🔬 Eight years analysing complex time-series data, from intracranial brain recordings to cortical signals
-- 🏭 12-month applied AI residency delivering four industry solutions: predictive modelling with explainable AI, secure RAG assistants on cloud and local LLMs, and LLM-based document extraction with anti-hallucination guardrails
-- ⚽ Currently working on: probabilistic football match prediction with time-aware validation, SQL, MLflow, FastAPI and Docker
-
+Brisbane, Australia 
 ---
 
-### 🛠️ Tech stack
+### Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
@@ -43,32 +35,13 @@ I build models that people can actually trust. Research taught me to take valida
 
 ---
 
-### 📊 Languages
+### Languages
 
 <p align="left">
   <img src="./core-technologies.svg" alt="Core technologies: Jupyter, Python, MATLAB, C++, SQL, Fortran" height="175" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenaBordiniLucas&layout=donut&langs_count=5&bg_color=0a0a0a&border_color=262626&title_color=8b8b8b&text_color=e6e6e6&custom_title=Languages&hide=jupyter%20notebook" alt="Top languages" height="175" />
 </p>
 
----
-
-### 💼 Selected work
-
-Client projects from my applied AI residency are private, so here is a short overview (happy to discuss details):
-
-| Project | What it does | Stack |
-|---|---|---|
-| **Railway fuel efficiency platform** | Predicts and optimises fuel consumption for Brazil's largest railway operator | CatBoost, SHAP, Streamlit |
-| **Secure legal RAG assistant** | Natural-language search over contracts with department-level access control and cited sources | Azure OpenAI, ChromaDB, OCR |
-| **Maintenance assistant with local LLMs** | On-premise Q&A over industrial equipment manuals, including table lookups | Llama 3.1, Ollama, LangChain |
-| **Purchase order extraction** | Turns heterogeneous PDFs, spreadsheets and scans into structured data, with evidence-based guardrails | Regex, Gemma 3, Azure OpenAI |
-
----
-
-### 📄 Publications
-
-- **A symbolic information approach to characterize response-related differences in cortical activity during a Go/No-Go task** · *Nonlinear Dynamics*, 2021 · [doi](https://doi.org/10.1007/s11071-021-06477-1)
-- **Characterizing sleep stages through the complexity–entropy plane in human intracranial data and in a whole-brain model** · *arXiv*, 2025 · [arXiv:2511.09243](https://arxiv.org/abs/2511.09243)
 
 ---
 
