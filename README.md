@@ -1,4 +1,3 @@
----
 # Hi, I'm Helena
 
 **Data Scientist & AI Developer | PhD Candidate in Physics & Computational Neuroscience | Machine Learning, RAG & LLMs**
