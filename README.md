@@ -30,9 +30,8 @@
 
 <p align="left">
   <img src="./core-technologies.svg" alt="Core technologies: Jupyter, Python, MATLAB, C++, SQL, Fortran" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenaBordiniLucas&layout=donut&langs_count=5&bg_color=0a0a0a&border_color=262626&title_color=8b8b8b&text_color=e6e6e6&custom_title=Languages&hide=jupyter%20notebook" alt="Top languages" height="175" />
+  <img src="./languages.svg" alt="Languages used across my projects" height="175" />
 </p>
-
 
 ---
 
