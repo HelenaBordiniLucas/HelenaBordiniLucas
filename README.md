@@ -2,14 +2,6 @@
 
 **Data Scientist & AI Developer | PhD Candidate in Physics & Computational Neuroscience | Machine Learning, RAG & LLMs**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,sklearn,cpp,fortran,postgres,azure,latex,git,github&perline=10" alt="Tech icons" />
-</p>
-
----
-
-### Languages
-
 <p align="left">
   <img src="./core-technologies.svg" alt="Core technologies: Jupyter, Python, MATLAB, C++, SQL, Fortran" height="175" />
 </p>
@@ -17,6 +9,10 @@
 ___
 
 ### Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,matlab,sklearn,cpp,fortran,postgres,azure,latex,git,github&perline=10" alt="Tech icons" />
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
