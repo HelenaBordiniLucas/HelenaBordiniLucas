@@ -1,20 +1,11 @@
+**Data Scientist & AI Developer | PhD Candidate in Physics & Computational Neuroscience | Machine Learning, RAG & LLMs**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,matlab,sklearn,postgres,azure,git,github&perline=7" alt="Tech icons" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/helena-bordini-de-lucas-78629b239/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=vBM89_YAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
-  </a>
-</p>
 
-
-**Data Scientist & AI Developer | PhD Candidate in Physics & Computational Neuroscience | Machine Learning, RAG & LLMs**
-
-Brisbane, Australia 
+### Brisbane, Australia 
 ---
 
 ### Tech stack
