@@ -1,6 +1,6 @@
 # Hi, I'm Helena
 
-**Data Scientist & AI Developer | PhD Candidate in Physics & Computational Neuroscience
+**Data Scientist & AI Developer | PhD Candidate in Physics & Computational Neuroscience**
 
 <p align="left">
   <img src="./core-technologies.svg" alt="Core technologies: Jupyter, Python, MATLAB, C++, SQL, Fortran" height="175" />
